@@ -1,0 +1,62 @@
+{
+    "places": [
+        {
+            "formattedAddress": "P3XW+PMG, Pen Bypass Rd, Ramraj, Pen, Maharashtra 402107, India",
+            "location": {
+                "latitude": 18.749523,
+                "longitude": 73.09696009999999
+            },
+            "displayName": {
+                "text": "HPCL Charging Station",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "P3XW+PMG, Pen Bypass Rd, Ramraj, Pen",
+            "photos": [
+                {
+                    "name": "https://content.jdmagicbox.com/v2/comp/pen/z8/9999p2145.2145.180420114658.t0z8/catalogue/autobhan-filling-station-petrol-pumps-indian-oil-vadkhal-pen-petrol-pumps-C8DqRKZFEx.jpg",
+                    "width": 932,
+                    "height": 520
+                }
+            ],
+            
+            "evChargeOptions": {
+                "connectorCount": 2,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 30,
+                        "count": 2,
+                        "availableCount": 2,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2025-03-08T04:45:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "Maharashtra State Highway 104, Chinchghar, Maharashtra 402107, India",
+            "location": {
+                "latitude": 18.764734999999998,
+                "longitude": 73.09197
+            },
+            "displayName": {
+                "text": "Hindustan Petroleum Corporation Limited Charging Station",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "Maharashtra State Highway 104, Chinchghar",
+            "evChargeOptions": {
+                "connectorCount": 2,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 30,
+                        "count": 2,
+                        "availableCount": 0,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2025-03-08T04:45:00Z"
+                    }
+                ]
+            }
+        }
+    ]
+}
